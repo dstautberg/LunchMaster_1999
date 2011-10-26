@@ -1,3 +1,3 @@
 LunchMaster is a simple lunch-organizing tool geared toward coworkers who get together for lunch most days, but sometimes pack lunch, sometimes want to go out to eat, sometimes have other plans, etc.
 
-This is the first version of LunchMaster that I created back in 1999 as a Python CGI script, before I reimplemented it later using Zope (http://zope.org/).  I decided to upload it here partly as a historical record of what web development was like at a point in time, and also to provide a relatively simple example of creating a Python CGI script.
+This is the first version of LunchMaster that I created back in 1999 as a Python CGI script, before I reimplemented it later using Zope (http://zope.org/).  I decided to upload it here partly as a historical record of what web development was like at that point in time, and also to provide a relatively simple example of creating a Python CGI script.
